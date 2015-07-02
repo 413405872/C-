@@ -5,13 +5,13 @@ using namespace std;
 void Test_Sort()
 {
 	Sort_Algorithm<int> sa;
-	sa.Bubble_Sort();//ц╟ещеепР
-	sa.Insert_Sort();//╡ЕхКеепР
-	sa.Select_Sort();//я║тЯеепР
-	sa.Shell_Sort();//оё╤ШеепР
-	sa.Quick_Sort();//©ЛкыеепР
-	sa.Merge_Sort();//╧И╡╒еепР
-	sa.Heap_Sort();//╤яеепР
+	sa.Bubble_Sort();  //ц╟ещеепР
+	sa.Insert_Sort();   //╡ЕхКеепР
+	sa.Select_Sort();   //я║тЯеепР
+	sa.Shell_Sort();   //оё╤ШеепР
+	sa.Quick_Sort();   //©ЛкыеепР
+	sa.Merge_Sort();   //╧И╡╒еепР
+	sa.Heap_Sort();    //╤яеепР
 }
 
 int main()
